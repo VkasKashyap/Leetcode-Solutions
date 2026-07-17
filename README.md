@@ -41,8 +41,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 <!---LeetCode Topics End-->
