@@ -48,10 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/0896-monotonic-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
