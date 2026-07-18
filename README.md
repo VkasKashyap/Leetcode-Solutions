@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/0896-monotonic-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/VkasKashyap/Leetcode-Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
